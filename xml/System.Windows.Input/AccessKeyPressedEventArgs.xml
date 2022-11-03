@@ -30,7 +30,7 @@
         <AssemblyVersion>4.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Docs>
-        <summary>Initializes a new instance of the <see cref="T:System.Windows.Input.AccessKeyEventArgs" /> class.</summary>
+        <summary>Initializes a new instance of the <see cref="T:System.Windows.Input.AccessKeyPressedEventArgs" /> class.</summary>
         <remarks>
           <format type="text/markdown"><![CDATA[  
   
@@ -60,7 +60,7 @@
       </AssemblyInfo>
       <Parameters />
       <Docs>
-        <summary>Initializes a new instance of the <see cref="T:System.Windows.Input.AccessKeyEventArgs" /> class.</summary>
+        <summary>Initializes a new instance of the <see cref="T:System.Windows.Input.AccessKeyPressedEventArgs" /> class.</summary>
         <remarks>To be added.</remarks>
         <altmember cref="T:System.Windows.Input.AccessKeyManager" />
         <altmember cref="T:System.Windows.Input.AccessKeyPressedEventHandler" />
