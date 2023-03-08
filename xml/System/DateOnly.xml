@@ -162,7 +162,7 @@
       <Docs>
         <param name="value">A number of months. The months parameter can be negative or positive.</param>
         <summary>Adds the specified number of months to the value of this instance.</summary>
-        <returns>An object whose value is the sum of the date represented by this instance and months.</returns>
+        <returns>An object whose value is the sum of the date represented by this instance and value.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
